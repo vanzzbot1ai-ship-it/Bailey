@@ -1,3 +1,5 @@
+console.log("Thanks Using VanzDev Custom Baileys ")
+
 import { DEFAULT_CONNECTION_CONFIG } from '../Defaults'
 import type { UserFacingSocketConfig } from '../Types'
 import { makeCommunitiesSocket } from './communities'
